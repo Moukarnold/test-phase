@@ -37,7 +37,7 @@ function TheEntries() {
     <div>
       <label htmlFor="myInput">Motto</label>
       <p></p>
-      <input type="text" style={{ width: "20px" }} />
+      <input type="text" style={{ width: "30px" }} />
       <p></p>
       <label htmlFor="myInput">notes</label>
       <p></p>
